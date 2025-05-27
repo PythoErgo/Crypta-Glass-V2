@@ -1,0 +1,10 @@
+Pillow
+luma.core
+luma.lcd
+RPi.GPIO
+adafruit-circuitpython-ads1x15
+opencv-python
+pybluez
+picamera2
+numpy
+python-vlc
